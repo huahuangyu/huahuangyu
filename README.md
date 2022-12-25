@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huahuangyu&show_icons=true&locale=en&layout=compact" alt="huahuangyu" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=huahuangyu&show_icons=true&locale=en&layout=compact" alt="huahuangyu" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huahuangyu&show_icons=true&locale=en" alt="huahuangyu" /></p>
